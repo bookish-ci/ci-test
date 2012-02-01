@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Autocomplete features in the header" tests="2" time="34.746911127" failures="0" errors="0" skipped="0">
+  <testcase time="27.104508819">
+  </testcase>
+  <testcase name="user can search his and his buddies todos" time="7.237061236">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>
+
